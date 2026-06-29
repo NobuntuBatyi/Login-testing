@@ -1,0 +1,6 @@
+com/loginsimulator/User.class
+com/loginsimulator/Main.class
+com/loginsimulator/Validator.class
+com/loginsimulator/LoginException.class
+com/loginsimulator/UserRepository.class
+com/loginsimulator/LoginService.class
