@@ -265,4 +265,4 @@ This project demonstrates practical experience with:
 
 **Nobuntu Batyi**
 
-This project was developed as part of my software engineering and quality assurance learning journey and serves as a portfolio project demonstrating Java development and automated testing skills.
+This project was developed(with ai assistance)as part of my software engineering and quality assurance learning journey and serves as a portfolio project demonstrating Java development and automated testing skills.
